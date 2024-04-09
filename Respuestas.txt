@@ -1,0 +1,4 @@
+2f) No se puede ver el archivo tp2_1_2.c porque se encuentra dentro de la rama opcion_2 
+
+En la representacion grafica se puede ver que Main y Opcion_2 quedan separadas en ramas dado que se realizó
+una modificacion en Main agregando el archivo txt
