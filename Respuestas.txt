@@ -2,3 +2,6 @@
 
 En la representacion grafica se puede ver que Main y Opcion_2 quedan separadas en ramas dado que se realizó
 una modificacion en Main agregando el archivo txt
+
+Una vez que se realiza el merge, vemos que graficamente la rama de opcion dos se une con la principal esto significa
+que los archivos que estaban en opcion 2 se combinan con los archivo de main
