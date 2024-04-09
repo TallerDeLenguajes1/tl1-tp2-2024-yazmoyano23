@@ -18,5 +18,3 @@ int main(){
     }
     return 0;
 }
-
-//Buff[1] //equivale a *(Buff + 1) 
